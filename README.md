@@ -1,15 +1,14 @@
-# DATA ANALYTICS POTFOLIO
+# Bike Sales Dashboard
 
-Welcome to my Data Analyst Portfolio!
+This Excel dashboard displays sales data for bikes sold by a company. The dashboard includes charts, tables, and filters to help you visualize and analyze your sales data in a more efficient way.
 
-I am a data analyst with experience in using various tools and technologies to collect, organize, and analyze data to inform business decisions. I am proficient in SQL, Excel, Power BI and basic Python and have a solid understanding of data analytics techniques such as dashboard building, report writing, data mining, data merging, statistics, and critical thinking.
+Installation: To use this dashboard, simply download the Excel file and open it in Microsoft Excel.
 
-In this portfolio, I have included a variety of projects that showcase my data analytics skills. You will find examples of dashboards and reports I have created using various tools such as Power BI, Tableau, and Excel. These projects demonstrate my ability to analyze and present data in a clear and visually appealing way, making it easy for decision makers to understand the insights and take action.
+Usage: Once opening the dashboard, we can analyze your sales data in various ways:
 
-I have also included examples of my work in data mining, data merging, and statistics. These projects showcase my ability to extract valuable insights from large and complex data sets, and to combine data from multiple sources to create a comprehensive view of the data.
+- Use the bar chart to see the avarage income of people who purchased bikes.
+- Use the line chart to track sales in each range of age and commnute distance of customers.
+- Use the pivot table to summarize the sales data by gender, income, occupation, age, and so on.
+- Use the filters to analyze your data by different criteria, such as by marital status, religion and education
 
-In addition to my technical skills, I also pride myself on my critical thinking and problem-solving abilities. I am able to approach data analysis with a strategic mindset, and to identify key issues and opportunities in the data.
-
-I am confident that my data analytics skills and experience make me an ideal candidate for any data analyst role. I hope you find my portfolio to be informative and engaging, and I welcome any opportunity to discuss my qualifications further with you.
-
-Thank you for considering me as a candidate, I look forward to hearing from you soon.
+The expected deliverables for this project are a sales dashboard that analyzes the sales based on various categories. By creating pivot tables and using data analysis tools, the company can identify patterns and correlations in customer data, such as age, gender, income, location, buying habits, and preferences. This analysis can help a company understand the characteristics of customers who are most likely to buy a bike, as well as the factors that influence their buying decisions.
